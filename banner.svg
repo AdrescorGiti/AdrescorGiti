@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+    <defs>
+        <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00ffaa" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#00ffaa" stop-opacity="1"/>
+            <stop offset="100%" stop-color="#00ffaa" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#00d4ff" stop-opacity="1"/>
+            <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+
+    <rect width="900" height="200" fill="#0d1117" rx="12"/>
+
+    <!-- animated top line -->
+    <rect x="0" y="0" width="900" height="2" fill="url(#g1)">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="198" width="900" height="2" fill="url(#g2)">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- decorative brackets -->
+    <text x="40" y="100" font-family="JetBrains Mono,monospace" font-size="30" fill="#30363d">[
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="830" y="100" font-family="JetBrains Mono,monospace" font-size="30" fill="#30363d">]
+        <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- main title -->
+    <text x="450" y="85" text-anchor="middle" font-family="Space Grotesk,sans-serif" font-weight="700" font-size="42" fill="#ffffff" letter-spacing="4">
+        GITI ADRESCOR
+        <animate attributeName="fill" values="#ffffff;#00ffaa;#ffffff" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="450" y="120" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="13" fill="#00ffaa" letter-spacing="6">
+        ⚡ SYSTEMS DEVELOPER ⚡
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- bottom line -->
+    <rect x="300" y="145" width="300" height="1" fill="url(#g1)"/>
+    <circle cx="300" cy="145" r="2" fill="#00ffaa">
+        <animate attributeName="cx" values="300;600;300" dur="3s" repeatCount="indefinite"/>
+    </circle>
+</svg>
