@@ -89,7 +89,7 @@
 | **[GValli](https://github.com/AdrescorGiti/GValli)** | CLI package manager aggregator | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) |
 | **[OpenWire](https://github.com/AdrescorGiti/OpenWire)** | Soundpad & effects for PipeWire | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) |
 | **[gvalli-repo](https://github.com/AdrescorGiti/gvalli-repo)** | Package repo for GValli | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
-| **G OS** | Operating system — in development | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=сlang) |
+| **G OS** | Operating system — in development | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=с) |
 
 </div>
 
