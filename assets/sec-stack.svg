@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50">
+    <rect width="400" height="50" fill="none"/>
+    <rect x="0" y="24" width="60" height="2" fill="#00ffaa"/>
+    <rect x="340" y="24" width="60" height="2" fill="#00d4ff"/>
+    <text x="200" y="32" text-anchor="middle" font-family="JetBrains Mono,monospace" font-weight="600" font-size="18" fill="#00ffaa" letter-spacing="4">
+        ▸ STACK ◂
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="55" y="14" font-family="JetBrains Mono,monospace" font-size="10" fill="#30363d">02</text>
+    <text x="330" y="14" font-family="JetBrains Mono,monospace" font-size="10" fill="#30363d">02</text>
+</svg>
