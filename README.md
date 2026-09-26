@@ -8,7 +8,7 @@
  
 <img src="https://img.shields.io/github/followers/AdrescorGiti?style=flat-square&color=00ffaa&label=FOLLOWERS" alt="followers"/>
  
-<a href="https://t.me/giti_robot"><img src="https://img.shields.io/badge/Telegram-@giti__robot-2F80ED?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/giti_xyz"><img src="https://img.shields.io/badge/Telegram-@giti_xyz-2F80ED?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
  
 <a href="https://github.com/AdrescorGiti"><img src="https://img.shields.io/badge/GitHub-AdrescorGiti-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
