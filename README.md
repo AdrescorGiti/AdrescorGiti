@@ -64,11 +64,7 @@
 
 <h3>🐧 OS</h3>
 
-<img src="https://img.shields.io/badge/Bedrock_Linux-grey?style=for-the-badge&logo=linux&logoColor=white" alt="Bedrock"/>
- 
-<img src="https://img.shields.io/badge/Artix-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Artix"/>
- 
-<img src="https://img.shields.io/badge/Devuan-C70036?style=for-the-badge&logo=debian&logoColor=white" alt="Devuan"/>
+<img src="https://img.shields.io/badge/cachy_os-grey?style=for-the-badge&logo=cachyos&logoColor=white" alt="Cachy"/>
 
 </div>
 
